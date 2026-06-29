@@ -1,0 +1,214 @@
+canonical_identifier: bkk:krp/KR3ei059/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei059/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 產孕集
+  identifiers:
+    krp: KR3ei059
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei059.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei059_000-jc.yaml, hash: 'sha256:d34924f3c05cb9f25660091fa8a0261289f52c1f96dd8919e15f625b58cbc296'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei059_000-jc.markers.yaml, hash: 'sha256:dc7a78efc7cda77b95b841d6eafc1020f2baf70fe1eb474fd3b1cade8d822077'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 205
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 8387
+  label: 上篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3d2
+    span:
+    - body
+    - 2
+    - 1230
+  label: 辨孕第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3d3
+    span:
+    - body
+    - 1230
+    - 3563
+  label: 養孕第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3d4
+    span:
+    - body
+    - 3563
+    - 4608
+  label: 孕宜第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3d5
+    span:
+    - body
+    - 4608
+    - 5399
+  label: 孕忌第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d3d6
+    span:
+    - body
+    - 5399
+    - 8387
+  label: 孕疾第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4.h1s1
+    span:
+    - body
+    - 8387
+    - 21164
+  label: 下篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d2
+    span:
+    - body
+    - 8389
+    - 9130
+  label: 辨產第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d3
+    span:
+    - body
+    - 9130
+    - 9906
+  label: 產戒第七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d4
+    span:
+    - body
+    - 9906
+    - 10753
+  label: 用藥第八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d5
+    span:
+    - body
+    - 10753
+    - 12329
+  label: 應變第九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d6
+    span:
+    - body
+    - 12329
+    - 13378
+  label: 調攝第十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d7
+    span:
+    - body
+    - 13378
+    - 15431
+  label: 懷嬰第十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d8
+    span:
+    - body
+    - 15431
+    - 16977
+  label: 拯危第十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d4d9
+    span:
+    - body
+    - 16977
+    - 21164
+  label: 去疾第十三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d5.h1s1
+    span:
+    - body
+    - 21164
+    - 21303
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d6.h1s1
+    span:
+    - body
+    - 21303
+    - 21487
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei059_jc_000-d7.h1s1
+    span:
+    - body
+    - 21487
+    - 21606
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:2673c0c92f42694c43317352f7b58996e7b86a1149831b7ac3d67e14a3f0dbac
